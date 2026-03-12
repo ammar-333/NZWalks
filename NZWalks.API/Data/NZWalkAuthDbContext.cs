@@ -7,6 +7,11 @@ namespace NZWalks.API.Data
     {
         public NZWalkAuthDbContext(DbContextOptions<NZWalkAuthDbContext> options) : base(options)
         {
+
+
+
+
+
         }
     }
 }
