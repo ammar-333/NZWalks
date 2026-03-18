@@ -32,7 +32,7 @@
               "RelativeDocumentMoniker": "NZWalks.API\\Program.cs",
               "ToolTip": "C:\\Users\\DELL\\OneDrive\\Desktop\\projects\\Wep\\Backend\\NZWalks\\NZWalks.API\\Program.cs",
               "RelativeToolTip": "NZWalks.API\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAAAYAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-08T11:16:43.577Z",
               "EditorCaption": ""
@@ -47,8 +47,7 @@
               "RelativeToolTip": "NZWalks.API\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-02-19T09:13:25.515Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-19T09:13:25.515Z"
             },
             {
               "$type": "Document",
@@ -60,8 +59,7 @@
               "RelativeToolTip": "NZWalks.API\\Controllers\\RegionsController.cs",
               "ViewState": "AgIAACoAAAAAAAAAAAAYwIgAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-11T12:24:34.282Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-11T12:24:34.282Z"
             }
           ]
         }

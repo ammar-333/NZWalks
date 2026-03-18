@@ -146,6 +146,7 @@ C:\Users\A.Sh\Desktop\dotnet\NZWalks\NZWalks.API\bin\Debug\net8.0\runtimes\win\l
 C:\Users\A.Sh\Desktop\dotnet\NZWalks\NZWalks.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
 C:\Users\A.Sh\Desktop\dotnet\NZWalks\NZWalks.API\obj\Debug\net8.0\swae.build.ex.cache
 C:\Users\A.Sh\Desktop\dotnet\NZWalks\NZWalks.API\obj\Debug\net8.0\NZWalks.API.sourcelink.json
+<<<<<<< HEAD
 C:\Users\DELL\OneDrive\Desktop\projects\Wep\Backend\NZWalks\NZWalks.API\bin\Debug\net8.0\appsettings.Development.json
 C:\Users\DELL\OneDrive\Desktop\projects\Wep\Backend\NZWalks\NZWalks.API\bin\Debug\net8.0\appsettings.json
 C:\Users\DELL\OneDrive\Desktop\projects\Wep\Backend\NZWalks\NZWalks.API\bin\Debug\net8.0\NZWalks.API.staticwebassets.endpoints.json
@@ -294,3 +295,9 @@ C:\Users\DELL\OneDrive\Desktop\projects\Wep\Backend\NZWalks\NZWalks.API\obj\Debu
 C:\Users\DELL\OneDrive\Desktop\projects\Wep\Backend\NZWalks\NZWalks.API\obj\Debug\net8.0\NZWalks.API.pdb
 C:\Users\DELL\OneDrive\Desktop\projects\Wep\Backend\NZWalks\NZWalks.API\obj\Debug\net8.0\NZWalks.API.genruntimeconfig.cache
 C:\Users\DELL\OneDrive\Desktop\projects\Wep\Backend\NZWalks\NZWalks.API\obj\Debug\net8.0\ref\NZWalks.API.dll
+=======
+C:\Users\A.Sh\Desktop\dotnet\NZWalks\NZWalks.API\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\A.Sh\Desktop\dotnet\NZWalks\NZWalks.API\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\A.Sh\Desktop\dotnet\NZWalks\NZWalks.API\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\A.Sh\Desktop\dotnet\NZWalks\NZWalks.API\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+>>>>>>> 08451afdcb62f8c2b31bab4d0a88b8c0e5ffd0b8
