@@ -1,22 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\DELL\\OneDrive\\Desktop\\projects\\Wep\\Backend\\NZWalks\\",
+  "WorkspaceRootPath": "C:\\Users\\A.Sh\\Desktop\\dotnet\\NZWalks\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1098D9EE-EA40-4B39-A885-7C56613F8B88}|NZWalks.API\\NZWalks.API.csproj|c:\\users\\dell\\onedrive\\desktop\\projects\\wep\\backend\\nzwalks\\nzwalks.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1098D9EE-EA40-4B39-A885-7C56613F8B88}|NZWalks.API\\NZWalks.API.csproj|c:\\users\\a.sh\\desktop\\dotnet\\nzwalks\\nzwalks.api\\middlewares\\exceptionhandlermiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1098D9EE-EA40-4B39-A885-7C56613F8B88}|NZWalks.API\\NZWalks.API.csproj|solutionrelative:nzwalks.api\\middlewares\\exceptionhandlermiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1098D9EE-EA40-4B39-A885-7C56613F8B88}|NZWalks.API\\NZWalks.API.csproj|c:\\users\\a.sh\\desktop\\dotnet\\nzwalks\\nzwalks.api\\controllers\\regionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1098D9EE-EA40-4B39-A885-7C56613F8B88}|NZWalks.API\\NZWalks.API.csproj|solutionrelative:nzwalks.api\\controllers\\regionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1098D9EE-EA40-4B39-A885-7C56613F8B88}|NZWalks.API\\NZWalks.API.csproj|c:\\users\\a.sh\\desktop\\dotnet\\nzwalks\\nzwalks.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1098D9EE-EA40-4B39-A885-7C56613F8B88}|NZWalks.API\\NZWalks.API.csproj|solutionrelative:nzwalks.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1098D9EE-EA40-4B39-A885-7C56613F8B88}|NZWalks.API\\NZWalks.API.csproj|c:\\users\\dell\\onedrive\\desktop\\projects\\wep\\backend\\nzwalks\\nzwalks.api\\repositories\\iimagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1098D9EE-EA40-4B39-A885-7C56613F8B88}|NZWalks.API\\NZWalks.API.csproj|solutionrelative:nzwalks.api\\repositories\\iimagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1098D9EE-EA40-4B39-A885-7C56613F8B88}|NZWalks.API\\NZWalks.API.csproj|c:\\users\\dell\\onedrive\\desktop\\projects\\wep\\backend\\nzwalks\\nzwalks.api\\repositories\\localimagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1098D9EE-EA40-4B39-A885-7C56613F8B88}|NZWalks.API\\NZWalks.API.csproj|solutionrelative:nzwalks.api\\repositories\\localimagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1098D9EE-EA40-4B39-A885-7C56613F8B88}|NZWalks.API\\NZWalks.API.csproj|c:\\users\\dell\\onedrive\\desktop\\projects\\wep\\backend\\nzwalks\\nzwalks.api\\controllers\\imagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1098D9EE-EA40-4B39-A885-7C56613F8B88}|NZWalks.API\\NZWalks.API.csproj|solutionrelative:nzwalks.api\\controllers\\imagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1098D9EE-EA40-4B39-A885-7C56613F8B88}|NZWalks.API\\NZWalks.API.csproj|c:\\users\\a.sh\\desktop\\dotnet\\nzwalks\\nzwalks.api\\controllers\\walkscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1098D9EE-EA40-4B39-A885-7C56613F8B88}|NZWalks.API\\NZWalks.API.csproj|solutionrelative:nzwalks.api\\controllers\\walkscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,58 +26,62 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "LocalImageRepository.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive\\Desktop\\projects\\Wep\\Backend\\NZWalks\\NZWalks.API\\Repositories\\LocalImageRepository.cs",
-              "RelativeDocumentMoniker": "NZWalks.API\\Repositories\\LocalImageRepository.cs",
-              "ToolTip": "C:\\Users\\DELL\\OneDrive\\Desktop\\projects\\Wep\\Backend\\NZWalks\\NZWalks.API\\Repositories\\LocalImageRepository.cs",
-              "RelativeToolTip": "NZWalks.API\\Repositories\\LocalImageRepository.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAQwB8AAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-19T08:05:37.808Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "IImageRepository.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive\\Desktop\\projects\\Wep\\Backend\\NZWalks\\NZWalks.API\\Repositories\\IImageRepository.cs",
-              "RelativeDocumentMoniker": "NZWalks.API\\Repositories\\IImageRepository.cs",
-              "ToolTip": "C:\\Users\\DELL\\OneDrive\\Desktop\\projects\\Wep\\Backend\\NZWalks\\NZWalks.API\\Repositories\\IImageRepository.cs",
-              "RelativeToolTip": "NZWalks.API\\Repositories\\IImageRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-19T07:58:32.025Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "ImageController.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive\\Desktop\\projects\\Wep\\Backend\\NZWalks\\NZWalks.API\\Controllers\\ImageController.cs",
-              "RelativeDocumentMoniker": "NZWalks.API\\Controllers\\ImageController.cs",
-              "ToolTip": "C:\\Users\\DELL\\OneDrive\\Desktop\\projects\\Wep\\Backend\\NZWalks\\NZWalks.API\\Controllers\\ImageController.cs",
-              "RelativeToolTip": "NZWalks.API\\Controllers\\ImageController.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAYwCsAAAAjAAAAAAAAAA==",
+              "Title": "WalksController.cs",
+              "DocumentMoniker": "C:\\Users\\A.Sh\\Desktop\\dotnet\\NZWalks\\NZWalks.API\\Controllers\\WalksController.cs",
+              "RelativeDocumentMoniker": "NZWalks.API\\Controllers\\WalksController.cs",
+              "ToolTip": "C:\\Users\\A.Sh\\Desktop\\dotnet\\NZWalks\\NZWalks.API\\Controllers\\WalksController.cs",
+              "RelativeToolTip": "NZWalks.API\\Controllers\\WalksController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAiwCIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-18T11:28:38.268Z",
+              "WhenOpened": "2026-03-25T11:55:55.563Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive\\Desktop\\projects\\Wep\\Backend\\NZWalks\\NZWalks.API\\Program.cs",
-              "RelativeDocumentMoniker": "NZWalks.API\\Program.cs",
-              "ToolTip": "C:\\Users\\DELL\\OneDrive\\Desktop\\projects\\Wep\\Backend\\NZWalks\\NZWalks.API\\Program.cs",
-              "RelativeToolTip": "NZWalks.API\\Program.cs",
-              "ViewState": "AgIAAGAAAAAAAAAAAAAAAHQAAAAbAAAAAAAAAA==",
+              "Title": "ExceptionHandlerMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\A.Sh\\Desktop\\dotnet\\NZWalks\\NZWalks.API\\Middlewares\\ExceptionHandlerMiddleware.cs",
+              "RelativeDocumentMoniker": "NZWalks.API\\Middlewares\\ExceptionHandlerMiddleware.cs",
+              "ToolTip": "C:\\Users\\A.Sh\\Desktop\\dotnet\\NZWalks\\NZWalks.API\\Middlewares\\ExceptionHandlerMiddleware.cs",
+              "RelativeToolTip": "NZWalks.API\\Middlewares\\ExceptionHandlerMiddleware.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBwAAABaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-18T09:22:51.001Z",
+              "WhenOpened": "2026-03-25T11:17:19.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RegionsController.cs",
+              "DocumentMoniker": "C:\\Users\\A.Sh\\Desktop\\dotnet\\NZWalks\\NZWalks.API\\Controllers\\RegionsController.cs",
+              "RelativeDocumentMoniker": "NZWalks.API\\Controllers\\RegionsController.cs",
+              "ToolTip": "C:\\Users\\A.Sh\\Desktop\\dotnet\\NZWalks\\NZWalks.API\\Controllers\\RegionsController.cs",
+              "RelativeToolTip": "NZWalks.API\\Controllers\\RegionsController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAqwCAAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T07:31:10.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\A.Sh\\Desktop\\dotnet\\NZWalks\\NZWalks.API\\Program.cs",
+              "RelativeDocumentMoniker": "NZWalks.API\\Program.cs",
+              "ToolTip": "C:\\Users\\A.Sh\\Desktop\\dotnet\\NZWalks\\NZWalks.API\\Program.cs",
+              "RelativeToolTip": "NZWalks.API\\Program.cs",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAAAHMAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T06:46:33.102Z",
               "EditorCaption": ""
             }
           ]
