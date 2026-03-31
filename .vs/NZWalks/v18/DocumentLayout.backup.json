@@ -40,7 +40,7 @@
               "RelativeDocumentMoniker": "NZWalks.API\\Controllers\\WalksController.cs",
               "ToolTip": "C:\\Users\\A.Sh\\Desktop\\dotnet\\NZWalks\\NZWalks.API\\Controllers\\WalksController.cs",
               "RelativeToolTip": "NZWalks.API\\Controllers\\WalksController.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAiwCMAAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAiwBQAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-25T11:55:55.563Z",
               "EditorCaption": ""
@@ -55,8 +55,7 @@
               "RelativeToolTip": "NZWalks.API\\Middlewares\\ExceptionHandlerMiddleware.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAQwCUAAABDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-25T11:17:19.656Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-25T11:17:19.656Z"
             },
             {
               "$type": "Document",
